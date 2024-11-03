@@ -11,11 +11,12 @@
         <div class="flex gap-5 max-md:flex-col">
           <aside class="flex flex-col w-[44%] max-md:ml-0 max-md:w-full">
             <div class="flex flex-col grow max-md:mt-8 max-md:max-w-full">
-              <img loading="lazy" src="@/assets/images/Blog/two-women-in-front-of-dry-erase-board-1181533.png" alt="Design tips article featured image" class="object-contain w-full aspect-[1.54] max-md:max-w-full" />
-              <img loading="lazy" src="@/assets/images/Blog/photo-of-people-doing-handshakes-3183197.png" alt="Web design clients article featured image" class="object-contain mt-16 w-full aspect-[1.54] max-md:mt-10 max-md:max-w-full" />
-              <img loading="lazy" src="@/assets/images/Blog/photo-of-woman-looking-at-man-3183173.png" alt="Logo design trends article featured image" class="object-contain mt-16 w-full aspect-[1.54] max-md:mt-10 max-md:max-w-full" />
-              <img loading="lazy" src="@/assets/images/Blog/photo-of-people-walking-on-hallway-3182811.png" alt="Figma design systems article featured image" class="object-contain mt-16 w-full aspect-[1.54] max-md:mt-10 max-md:max-w-full" />
-              <img loading="lazy" src="@/assets/images/Blog/two-women-in-front-of-dry-erase-board-1181533.png" alt="Font sizes article featured image" class="object-contain mt-16 w-full aspect-[1.54] max-md:mt-10 max-md:max-w-full" />
+              <img loading="lazy" src="@/assets/images/blog/twowomen.png" alt="Design tips article featured image" class="object-contain w-full aspect-[1.54] max-md:max-w-full" />
+              <img loading="lazy" src="@/assets/images/blog/photo-of-people-doing-handshakes-3183197.png" alt="Web design clients article featured image" class="object-contain mt-16 w-full aspect-[1.54] max-md:mt-10 max-md:max-w-full" />
+              <img loading="lazy" src="@/assets/images/blog/photo-of-woman-looking-at-man-3183173.png" alt="Logo design trends article featured image" class="object-contain mt-16 w-full aspect-[1.54] max-md:mt-10 max-md:max-w-full" />
+              <img loading="lazy" src="@/assets/images/blog/photo-of-people-walking-on-hallway-3182811.png" alt="Figma design systems article featured image" class="object-contain mt-16 w-full aspect-[1.54] max-md:mt-10 max-md:max-w-full" />
+              <img loading="lazy" src="@/assets/images/blog/two-women-in-front-of-dry-erase-board-1181533.png" alt="Font sizes article featured image" class="object-contain mt-16 w-full aspect-[1.54] max-md:mt-10 max-md:max-w-full" />
+
             </div>
           </aside>
   
