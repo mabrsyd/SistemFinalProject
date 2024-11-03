@@ -7,13 +7,18 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Node modules
 node_modules
-.DS_Store
+
+# Build directories
 dist
 dist-ssr
 coverage
-*.local
 
+# System files
+.DS_Store
+
+# Cypress directories
 /cypress/videos/
 /cypress/screenshots/
 
@@ -27,4 +32,9 @@ coverage
 *.sln
 *.sw?
 
+# TypeScript build info
 *.tsbuildinfo
+
+# Ignore all files in the assets/images/blog directory, but not the blog directory itself
+/src/assets/images/blog/*
+!src/assets/images/blog/
